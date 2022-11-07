@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"guvi"},
-{"type":"table","name":"tb_user","database":"guvi","data":
-[
 {"id":"4","name":"David","username":"davidgtech","password":"123"},
 {"id":"5","name":"Olivia Elijah","username":"oelijah","password":"1234561"},
 {"id":"6","name":"Daniel","username":"daniel88","password":"15243"},
@@ -10,6 +6,4 @@
 {"id":"8","name":"jhgj","username":"jhjv","password":"jhvhgv"},
 {"id":"9","name":"jhgj1","username":"jhjv1","password":"jhvhgv"},
 {"id":"10","name":"jhgj11","username":"jhjv11","password":"jhvhgv"}
-]
-}
 ]
